@@ -6,5 +6,8 @@ public class UseOfForLoop {
 			System.out.println(i);
 		}
 	}
+	public static void main(String[] args) {
+		
+	}
 
 }
